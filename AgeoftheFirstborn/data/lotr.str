@@ -48954,7 +48954,7 @@ OBJECT:AngmarWildMissle
 End
 
 OBJECT:AngmarWolfRiders
-"Wolf Riders"
+"Gundabad Wolf Riders"
 End
 
 OBJECT:AngmarOrcWarrior
@@ -49217,7 +49217,7 @@ CONTROLBAR:AngmarDireWolfHowl
 END
 
 CONTROLBAR:ToolTipAngmarDireWolfHowl
-"Gundabad Wolf gain +150% Damage \n Left click to activate"
+"Gundabad Wolves gain +150% Damage \n Left click to activate"
 END
 
 CONTROLBAR:ConstructAngmarSnowTrollHorde
@@ -53769,7 +53769,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeAngmarTraining
 End
 
 TOOLTIP:LackAngmarBasicTraining
-"Research upgrade at Hall of King's Men to enable this equipment \n When equipped, increases the horde to Level 2"
+"Research upgrade at the Dark Iron Forge to enable this equipment \n When equipped, increases the horde to Level 2"
 END
 
 CONTROLBAR:ToolTipAzogBrigandage
