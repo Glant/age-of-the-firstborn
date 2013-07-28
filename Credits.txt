@@ -1,16 +1,17 @@
 Ealendril Der Dunkle:	Ringhero system
 Caluadan: 		Lorien Warrior, Archer, Spearman, Rider Textures
-Nertea:			Dol Amroth Knights, orton Bowen
-Elven Alliance Mod:	Lindon Banner Textures, Gilgalad, Lothlorien Fletcher
-Eldarion:		Lindon Warrior, Archer, Spearman, Knight, Gilgalad's Guard Textures
+Nertea:			Dol Amroth Knights, Morthond Bowmen
+Elven Alliance Mod:	Lindon Banner Textures, Gil-galad, Lothlorien Fletcher
+Eldarion:		Lindon Warrior, Archer, Spearman, Knight, Gil-galad's Guard Textures
 Aka Alien Infiltrator:	Cirdan Palantirimage
-Luh Koala: 		Rivendell Banner
+Luh Koala: 		Elven Banner
 Irene Hawnetyne: 	Logo
-MatttheLegoman: 	Maps
+MatttheLegoman: 	Shellmap
 xxxMr. Xxxx: 		Haradrim Raider and Easterling Warrior
 Clement: 		Rhun Riders
-ark Lor: kin
-RoR: inar Arcer
+Dark Lord: 		2D Art
+RoR: 			Sindar Archer model
+Apollo Hawnetyne:       Website
 
 
 
