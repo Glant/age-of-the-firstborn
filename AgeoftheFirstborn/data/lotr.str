@@ -27047,7 +27047,7 @@ CONTROLBAR:ConstructDwarvenBarracks
 END
 
 CONTROLBAR:ToolTipConstructDwarvenBarracks
-"Trains Guardians, Phalanxes, Axe Throwers and Khazad Guards\n Researches Banner Carrier upgrade"
+"Trains Guardians, Phalanxes, Axe Throwers and Iron Guards\n Researches Banner Carrier upgrade"
 END
 
 CONTROLBAR:ConstructDwarvenHearth
@@ -27409,7 +27409,7 @@ CONTROLBAR:UpgradeDwarvenBarracksLevel3
 END
 
 CONTROLBAR:ToolTipUpgradeDwarvenBarracksLevel3
-"+25% Faster Build Speed \Allows training of Khazad Guardsmen \n Adds Defensive Axe Tower"
+"+25% Faster Build Speed \Allows training of Iron Guards \n Adds Defensive Axe Tower"
 END
 
 CONTROLBAR:ConstructDwarvenMenOfDale
@@ -47700,8 +47700,6 @@ CONTROLBAR:ToolTipBuildArnorCounterweightPorter
 "Build Arnor Counterweight Porter"
 END
 
-
-
 CONTROLBAR:ToolTipBuildArnorPeasant
 "Arnor Peasant \n Can repair buildings"
 END
@@ -50648,11 +50646,11 @@ CONTROLBAR:ZerkSlayer
 END
 
 CONTROLBAR:ToolTipZerkSlayer
-"Requires Level 7 \n Khazad Guardsmen gain +150% Damage and Double Attack Speed \n Left click to activate"
+"Requires Level 7 \n Iron Guards gain +150% Damage and Double Attack Speed \n Left click to activate"
 END
 
 CONTROLBAR:LW_Unit_DwarvenZerkerHorde
-"Khazad Guardsmen"
+"Iron Guards"
 END
 
 CONTROLBAR:LW_ToolTip_DwarvenZerkerHorde
@@ -50660,15 +50658,15 @@ CONTROLBAR:LW_ToolTip_DwarvenZerkerHorde
 END
 
 CONTROLBAR:ConstructDwarvenZerkerHorde
-"&Khazad Guardsmen"
+"&Iron Guards"
 END
 
 CONTROLBAR:ToolTipBuildDwarvenZerkerHorde
-"Strong vs. All Normal Troops \n Requires Level 3 Hall of Warriors \n Only 3 Units of Khazad Guardsmen are allowed at any time."
+"Strong vs. All Normal Troops \n Requires Level 3 Hall of Warriors \n Only 3 Units of Iron Guards are allowed at any time."
 END
 
 OBJECT:HordeDwarvenZerker
-"Khazad Guardsmen"
+"Iron Guardsmen"
 END
 
 //------------Elven Additions for Expansion----------------
@@ -50977,11 +50975,11 @@ BANNERUI:IsengardBallistaPlural
 End
 
 OBJECT:DwarvenZerker
-"Khazad Guard"
+"Iron Guard"
 END
 
 OBJECT:HordeDwarvenZerker
-"Khazad Guards"
+"Iron Guards"
 END
 
 BANNERUI:WildMountainGiant
@@ -53701,7 +53699,7 @@ OBJECT:IsengardFanatic
 END
 
 OBJECT:HordeDwarvenZerker
-"Khazad Guard Horde"
+"Iron Guard Horde"
 END
 
 CONTROLBAR:FanaticDeathWish
@@ -54628,7 +54626,7 @@ UPGRADE:FortressLindonSorcery
 END
 
 CONTROLBAR:PurchaseUpgradeLindonFortressMagicTower
-"&Tower of Magic"
+"&Tower of Elostirion"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeLindonFortressMagicTower
@@ -54664,7 +54662,7 @@ CONTROLBAR:HaldirSummonGaladhrim
 End
 
 CONTROLBAR:ToolTipHaldirSummonGaladhrim
-"Summons a battalion of Galadhrim Warriors without timelimit \n Left click icon then left click on pathable location"
+"Permanently summons a battalion of Galadhrim Warriors\n Left click icon then left click on pathable location"
 END
 
 CONTROLBAR:Nenya
@@ -55248,6 +55246,19 @@ END
 
 OBJECT:UmbarMarketPlaceDescription
 "Generates resources based on available terrain\n Increases command point limit by 50"
+END
+
+OBJECT:ElvenStable
+"Stable"
+END
+
+CONTROLBAR:ConstructElvenStables
+"Build Stable"
+END
+
+
+CONTROLBAR:ToolTipConstructElvenWorkshop
+"Constructs and upgrades Ballistae"
 END
 
 
