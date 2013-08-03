@@ -55256,9 +55256,22 @@ CONTROLBAR:ConstructElvenStables
 "Build Stable"
 END
 
-
 CONTROLBAR:ToolTipConstructElvenWorkshop
-"Constructs and upgrades Ballistae"
+"Constructs Ballistae"
 END
 
+OBJECT:UmbarCastamir
+"Castamir"
+END
 
+CONTROLBAR:UmbarCastamirRecruit
+"Recruit the Umbar Ringhero"
+END
+
+CONTROLBAR:UmbarCastamirRevive
+"Revive the fallen Hero, Castamir"
+END
+
+CONTROLBAR:UmbarCastamirHotkey
+"&Castamir"
+END
