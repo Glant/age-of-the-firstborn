@@ -54896,7 +54896,7 @@ OBJECT:ElvenSindarArcher
 END
 
 CONTROLBAR:ConstructElvenSindarArcherHorde
-"Sindar Archers"
+"Train Sindar Archers"
 END
 
 CONTROLBAR:ToolTipBuildElvenSindarArcherHorde
@@ -54904,11 +54904,11 @@ CONTROLBAR:ToolTipBuildElvenSindarArcherHorde
 END
 
 OBJECT:ElvenSindarArcherHorde
-"Sindar Archer Horde"
+"Sindar Archers"
 END
 
 CONTROLBAR:LW_Unit_ElvenSindarArcherHorde
-"Sindar Archer Horde"
+"Sindar Archer Battalion"
 END
 
 CONTROLBAR:LW_ToolTip_ElvenSindarArcherHorde
