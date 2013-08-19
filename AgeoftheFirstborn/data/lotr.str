@@ -8938,11 +8938,11 @@ OBJECT:RohanHeavyArmorPorter
 END
 
 OBJECT:RohanPeasant
-"Rohan Peasant"
+"Peasant" ;Rohan 
 END
 
 OBJECT:RohanWorker
-"Rohan Peasant"
+"Peasant" ;Rohan 
 END
 
 OBJECT:RohanFighter
