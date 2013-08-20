@@ -4,7 +4,7 @@ Nertea:			Dol Amroth Knights, Morthond Bowmen
 Elven Alliance Mod:	Lindon Banner Textures, Gil-galad, Lothlorien Fletcher
 Aka Alien Infiltrator:	Cirdan Palantirimage
 Luh Koala: 		Elven Banner
-Irene Hawnetyne: 	Logo
+Irene Hawnetyne: 	Logo, Icon
 MatttheLegoman: 	Shellmap
 xxxMr. Xxxx: 		Haradrim Raider and Easterling Warrior
 Clement: 		Rhun Riders

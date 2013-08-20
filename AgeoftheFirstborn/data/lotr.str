@@ -23378,6 +23378,13 @@ Map:MAPMPTheHeubris
 "East Bight"
 END
 
+Map:MAPMPFallBack4p
+"Stonewain Valley"
+END
+
+Map:MAPMPFallBack8p
+"Nanduhirion"
+END
 
 // MP map descriptions
 
@@ -23581,6 +23588,13 @@ Map:HotSummerNightsDemo/Desc
 "Redhorn Pass"
 END
 
+Map:MAPMPFallBack4p/Desc
+"This valley was made in the Ancient days by Men as a route from the quarries beneath Nardol to Minas Anor."
+END
+
+Map:MAPMPFallBack8p/Desc
+"This valley was the site of the decisive battle in the War of the Dwarves and Orcs"
+END
 
 ////////////////////////////////////////////////////////
 //	WOTR Map Descriptions
@@ -35502,7 +35516,7 @@ OBJECT:IsengardWallHubExpansion
 END
 
 TOOLTIP:LackGondorFireArrowsTechnology
-"Requires Level 2 Archery Range"
+"Requires Level 3 Archery Range"
 END
 
 TOOLTIP:LackSilverthornTechnology
@@ -41127,7 +41141,7 @@ TOOLTIP:LackIsengardHeavyArmor
 END
 
 TOOLTIP:LackMordorFireArrow
-"Research upgrade at Haradrim Palace to enable this equipment \n When equipped, significantly increases the damage done by Arrows"
+"Research upgrade at Orc Pit to enable this equipment \n When equipped, significantly increases the damage done by Arrows"
 END
 
 TOOLTIP:LackMordorBasicTraining
@@ -43380,15 +43394,15 @@ CONTROLBAR:ToolTipSpecialAbilityCrippleStrikeRanged_Level4
 End
 
 CONTROLBAR:TooltipCAH_SummonFamiliar_Level1
-"Hero summons a flock of birds that have a moderate view distance and detect stealth"
+"Summons a flock of birds that have a moderate view distance and detect stealth"
 End
 
 CONTROLBAR:TooltipCAH_SummonFamiliar_Level2
-"Hero summons a flock of birds that have a good view distance and detect stealth"
+"Summons a flock of birds that have a good view distance and detect stealth"
 End
 
 CONTROLBAR:TooltipCAH_SummonFamiliar_Level3
-"Hero summons a flock of birds that have an excellent view distance and detect stealth"
+"Summons a flock of birds that have an excellent view distance and detect stealth"
 End
 
 CONTROLBAR:TooltipCAH_Healing_Level1
@@ -44000,15 +44014,15 @@ CONTROLBAR:ToolTipSpecialAbilityCrippleStrikeRanged_Level4_Palantir
 End
 
 CONTROLBAR:TooltipCAH_SummonFamiliar_Level1_Palantir
-"Hero summons a flock of birds that have a moderate view distance and detect stealth \n Left click icon then left click on pathable location"
+"Summons a flock of birds that have a moderate view distance and detect stealth \n Left click icon then left click on pathable location"
 End
 
 CONTROLBAR:TooltipCAH_SummonFamiliar_Level2_Palantir
-"Hero summons a flock of birds that have a good view distance and detect stealth \n Left click icon then left click on pathable location"
+"Summons a flock of birds that have a good view distance and detect stealth \n Left click icon then left click on pathable location"
 End
 
 CONTROLBAR:TooltipCAH_SummonFamiliar_Level3_Palantir
-"Hero summons a flock of birds that have an excellent view distance and detect stealth \n Left click icon then left click on pathable location"
+"Summons a flock of birds that have an excellent view distance and detect stealth \n Left click icon then left click on pathable location"
 End
 
 CONTROLBAR:TooltipCAH_Healing_Level1_Palantir
@@ -54288,12 +54302,20 @@ Map:MAPMPTournamentGundabad
 "Tournament Gundabad"
 END
 
+Map:MAPMPTournamentWestmarch
+"Tournament Westmarch"
+END
+
 Map:MAPMPTournamentRhudaur/Desc
 "The rolling terrain of Rhudaur has always proved to be a ready battleground for the local hillmen and their invading enemies."
 END
 
 Map:MAPMPTournamentGundabad/Desc
 "The icy passages of Mount Gundabad have seen countless battles between the local Orc tribes and their foes."
+END
+
+Map:MAPMPTournamentWestmarch/Desc
+"A land of meadows and rises, between the Tower Hills and the Shire."
 END
 
 CONTROLBAR:GondorEarnurHotkey
