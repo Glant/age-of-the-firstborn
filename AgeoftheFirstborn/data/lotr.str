@@ -50894,7 +50894,7 @@ CONTROLBAR:AzogBrigandage
 END
 
 CONTROLBAR:ToolTipAzogCracktheWhip
-"Requires Level 6 \n Gives goblins and half-trolls experience \n Left click icon then left click on target units"
+"Requires Level 6 \n Gives goblins experience \n Left click icon then left click on target units"
 END
 
 CONTROLBAR:ToolTipAzogFury

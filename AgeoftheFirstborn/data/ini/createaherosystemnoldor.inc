@@ -12,7 +12,7 @@ CreateAHeroClass
 	SubClass // Captain Of Gondor
 		NameTag				  =	CreateAHero:SubClassName_Noldor
 		DescriptionTag		  =	CreateAHero:SubClassDesc_Noldor
-		IconImage			  = CPMaleElfArcher
+		IconImage			  = UPNolCah ;CPMaleElfArcher
 		ButtonImage           		= HICAHMaleElfArcher
 		// In UI it should be  		=  HICAHCaptainGondor_wotr
 		DefaultFaction              = Arnor
