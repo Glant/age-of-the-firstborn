@@ -27866,7 +27866,7 @@ CONTROLBAR:ToolTipElvenEntMoot
 END
 
 CONTROLBAR:ConstructEregionForge
-"Build Ere&gion Forge"
+"Build Lothlorien Forge"
 END
 
 CONTROLBAR:ToolTipEregionForge
@@ -54442,7 +54442,7 @@ CONTROLBAR:Vilya
 END
 
 CONTROLBAR:ErestorCouncil
-"King's Favo&r"
+"Experience"
 END
 
 CONTROLBAR:ToolTipErestorCouncil
@@ -55296,4 +55296,36 @@ END
 
 CONTROLBAR:UmbarCastamirHotkey
 "&Castamir"
+END
+
+CONTROLBAR:ErestorLeadership
+"Chief Counsellor"
+End
+
+CONTROLBAR:TooltipErestorLeadership
+"Allies near Erestor gain \n +50% Armour, \n and earn experience twice as fast \n \n Passive ability       Does not stack"
+END
+
+CONTROLBAR:NewBallLightning
+"Wrath of Cirdan"
+END
+
+CONTROLBAR:ToolTipNew_BallLightning
+"Sends out a lightning bolt that does excellent damage"
+End
+
+CONTROLBAR:GaldorPerception
+"Perception"
+END
+
+CONTROLBAR:ToolTipGaldorPerception
+"Requires Level 4 \n Galdor gains +100% Vision Range \n Left click to activate"
+END
+
+CONTROLBAR:ErestorWary
+"Wary"
+END
+
+CONTROLBAR:ToolTipErestorWary
+"Requires Level 8 \n Erestor gains +300% Armour \n Left click to activate"
 END
