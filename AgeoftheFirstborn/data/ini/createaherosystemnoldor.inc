@@ -13,7 +13,7 @@ CreateAHeroClass
 		NameTag				  =	CreateAHero:SubClassName_Noldor
 		DescriptionTag		  =	CreateAHero:SubClassDesc_Noldor
 		IconImage			  = UPNolCah ;CPMaleElfArcher
-		ButtonImage           		= HICAHMaleElfArcher
+		ButtonImage           		= BINolCah ;HICAHMaleElfArcher
 		// In UI it should be  		=  HICAHCaptainGondor_wotr
 		DefaultFaction              = Arnor
 		UsableFactions              = Men Elves Dwarves Arnor
