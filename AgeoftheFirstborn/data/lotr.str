@@ -16815,7 +16815,7 @@ CONTROLBAR:Leap
 END
 
 CONTROLBAR:ToolTipLeap
-"Requires Level 2 \n Dwalin jumps to a location causing area-effect damage \n Left click icon then left click on target area"
+"Requires Level 2 \n Thrain jumps to a location causing area-effect damage \n Left click icon then left click on target area"
 END
 
 CONTROLBAR:AxeThrow
@@ -16831,7 +16831,7 @@ CONTROLBAR:Slayer
 END
 
 CONTROLBAR:ToolTipSlayer
-"Requires Level 5 \n Dwalin gains +200% Damage and Double Attack Speed \n Left click to activate"
+"Requires Level 5 \n Thrain gains +200% Damage and Double Attack Speed \n Left click to activate"
 END
 
 CONTROLBAR:ToggleFaramirWeapons
@@ -27423,7 +27423,7 @@ CONTROLBAR:UpgradeDwarvenBarracksLevel3
 END
 
 CONTROLBAR:ToolTipUpgradeDwarvenBarracksLevel3
-"+25% Faster Build Speed \Allows training of Iron Guards \n Adds Defensive Axe Tower"
+"+25% Faster Build Speed \n Allows training of Iron Guards \n Adds Defensive Axe Tower"
 END
 
 CONTROLBAR:ConstructDwarvenMenOfDale
@@ -49414,7 +49414,7 @@ CONTROLBAR:ToolTipBuildAngmarThrallMaster
 End
 
 CONTROLBAR:ToolTipBuildAngmarDarkDunedainHorde
-"Requires Level 2 Hall of King's Men \nStrong vs. Pikemen"
+"Requires Level 2 Hall\nStrong vs. Pikemen" ; of King's Men 
 End
 
 CONTROLBAR:ToolTipBuildAngmarDarkRangerHorde
@@ -55328,4 +55328,20 @@ END
 
 CONTROLBAR:ToolTipErestorWary
 "Requires Level 8 \n Erestor gains +300% Armour \n Left click to activate"
+END
+
+OBJECT:UmbarHall
+"Umbar Hall"
+END
+
+OBJECT:UmbarHallDescription
+"Level 2: +10% Faster Build Speed\n Level 3: +25% Faster Build Speed"
+END
+
+CONTROLBAR:ConstructUmbarHall
+"Build Umbar Hall"
+END
+
+CONTROLBAR:ToolTipConstructUmbarHall
+"Trains Mercenaries, Black Numenoreans and Black Guards"
 END
