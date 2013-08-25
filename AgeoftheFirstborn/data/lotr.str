@@ -54914,11 +54914,11 @@ CONTROLBAR:ToolTipPurchaseUpgradeSindarImmigration
 END
 
 OBJECT:ElvenSindarArcher
-"Sindar Archer"
+"Marchwarden"
 END
 
 CONTROLBAR:ConstructElvenSindarArcherHorde
-"Train Sindar Archers"
+"Train Marchwardens"
 END
 
 CONTROLBAR:ToolTipBuildElvenSindarArcherHorde
@@ -54926,11 +54926,11 @@ CONTROLBAR:ToolTipBuildElvenSindarArcherHorde
 END
 
 OBJECT:ElvenSindarArcherHorde
-"Sindar Archers"
+"Marchwardens"
 END
 
 CONTROLBAR:LW_Unit_ElvenSindarArcherHorde
-"Sindar Archer Battalion"
+"Marchwarden Battalion"
 END
 
 CONTROLBAR:LW_ToolTip_ElvenSindarArcherHorde
