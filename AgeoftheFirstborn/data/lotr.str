@@ -55345,3 +55345,15 @@ END
 CONTROLBAR:ToolTipConstructUmbarHall
 "Trains Mercenaries, Black Numenoreans and Black Guards"
 END
+
+OBJECT:UmbarThrallMaster
+"Mercenary Leader"
+END
+
+CONTROLBAR:LW_Unit_UmbarThrallMaster
+"Mercenary Leader"
+END
+
+CONTROLBAR:LW_Unit_UmbarThrallMasterPlural
+"Mercenary Leaders"
+END
