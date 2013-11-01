@@ -55311,7 +55311,7 @@ CONTROLBAR:NewBallLightning
 END
 
 CONTROLBAR:ToolTipNew_BallLightning
-"Sends out a lightning bolt that does excellent damage"
+"Sends out a lightning bolt that does excellent damage \n Left click icon then left click on target"
 End
 
 CONTROLBAR:GaldorPerception
