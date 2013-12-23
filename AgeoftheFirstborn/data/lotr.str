@@ -23472,10 +23472,6 @@ Map:MAPMPEavesofFangorn/Desc
 "The golden lands that lie at the edge of Fangorn Forest. \nStarting Positions: Castles\nExpansion Points: 3\nSettlements: 6\nLairs: Troll and Warg"
 END
 
-;Map:MAPMPEmynArnen/Desc
-;"Green, lush lands in central Gondor, bordering the dark mountains that separate Gondor from Mordor in the east.\nStarting Positions: Castles\nExpansion Points: 1\nSettlements: 8\nLairs: Troll and Goblin"
-;END
-
 Map:MAPMPEmynMuil/Desc
 "Dark, rocky labyrinthine hills that Gollum led Frodo and Sam through on their way to Mordor.\nStarting Positions: Castles\nExpansion Points: 2\nSettlements: 8\nLairs: Troll"
 END
