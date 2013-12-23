@@ -54559,7 +54559,7 @@ OBJECT:ElvenErestor
 END
 
 CONTROLBAR:ErestorRecruit
-"Recruit the Member of Elrond´s Council"
+"Recruit the Advisor of Elrond"
 END
 
 CONTROLBAR:ErestorRevive
@@ -55042,7 +55042,7 @@ CONTROLBAR:ConstructElvenTeleriWarriorHorde
 END
 
 CONTROLBAR:ToolTipBuildElvenTeleriWarriorHorde
-"Strong Vs. Pikemen"
+"Strong vs. Pikemen"
 END
 
 OBJECT:TeleriWarriorHorde
