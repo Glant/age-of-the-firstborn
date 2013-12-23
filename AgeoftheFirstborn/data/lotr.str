@@ -1,6 +1,6 @@
 // String file for Lord of the Rings
 
-// comment: DO NOT TRANSLATE 
+// comment: DO NOT TRANSLATE
 LETTER:G
 "G"
 END
@@ -8536,7 +8536,7 @@ CONTROLBAR:OptionsDescription
 "Pause the game to change options, \n save, load, restart \n or exit"
 END
 CONTROLBAR:MultiPlayerOptionsDescription
-"Click here to to \n change your options \n or to exit"
+"Click here to \n change your options \n or to exit"
 END
 
 CONTROLBAR:EnemyRank
@@ -12574,7 +12574,7 @@ SCRIPT:COMPLETION_G06_B04
 END
 
 SCRIPT:G06_Hint01
-"Use your Grim Hammers to shatter this Fortress."
+"Use your Siege Hammers to shatter this Fortress."
 END
 
 SCRIPT:G06_Hint02
@@ -21612,7 +21612,7 @@ LWA:GondorArmy
 "Gondor Army"
 END
 LWA:IsengardArmy
-"Rhudaur Army"
+"Isengard Army"
 END
 LWA:MordorArmy
 "Mordor Army"
@@ -24072,7 +24072,7 @@ LWA:Gondor
 END
 
 LWA:Isengard
-"Rhudaur"
+"Isengard"
 END
 
 LWA:Mordor
@@ -55356,4 +55356,98 @@ END
 
 CONTROLBAR:LW_Unit_UmbarThrallMasterPlural
 "Mercenary Leaders"
+END
+
+// Maps
+
+Map:MAPMPErech
+"Erech"
+END
+Map:MAPMPErech/Desc
+"An ancient site at the feet of the White Mountains in Gondor.  Erech was most famous for a huge Stone, said to have fallen from heaven, though, in fact, it was brought to Middle-earth by Isildur."
+End
+
+Map:MAPMPAnorien
+//"Anorien"
+"Anorien II"
+END
+Map:MAPMPAnorien/Desc
+"The northwestern territory of Gondor that forms the border between Gondor and Rohan."
+End
+
+Map:MAPMPFarHarad
+"Far Harad"
+END
+Map:MAPMPFarHarad/Desc
+"Deep in southern Middle-earth, the region of Far Harad is the homeland of the wild Haradrim, loyal servants of Sauron."
+END
+
+Map:MAPMPTournamentMP202
+"Tournament Anorien"
+END
+Map:MAPMPTournamentMP202/Desc
+"A small yet open forest battlefield close to Gondor's border with Rohan."
+End
+
+Map:MAPMPTournamentRohan
+"Tournament Rohan"
+END
+Map:MAPMPTournamentRohan/Desc
+"Between the Gap of Rohan and the borders of Gondor lie the vast plains of the Riddermark, home to the great horse-lords of Middle-earth."
+End
+
+Map:MAPMPShire4p
+"Shire"
+END
+Map:MAPMPShire4p/Desc
+"A green, peaceful land. Home of the Hobbits of Middle-earth."
+END
+
+Map:MAPMPEmynArnen
+"Emyn Arnen II"
+END
+Map:MAPMPEmynArnen/Desc
+"Green, lush lands in central Gondor, bordering the dark mountains that separate Gondor from Mordor in the east."
+END
+
+Map:MAPMPTournamentBarrows
+"Tyrn Gorthad"
+END
+Map:MAPMPTournamentBarrows/Desc
+"Better known as the Barrow-downs, the ancient burial grounds of the kings of Arnor were corrupted with evil spirits by the Witch-king."
+END
+
+Map:MAPMPErynLaer
+"Eryn Laer"
+END
+Map:MAPMPErynLaer/Desc
+"The tall trees of Eryn Laer, the Woods of Song, stand deep in the realm of Lothlorien, the heart of Elvendom in Middle-earth."
+END
+
+Map:MAPMPOldForest
+"The Old Forest"
+END
+Map:MAPMPOldForest/Desc
+"Standing between the borders of Buckland and Breeland, The Old Forest hides great mystery and danger beneath its dark canopy."
+END
+
+Map:MAPMPNevrast
+"Nevrast"
+END
+Map:MAPMPNevrast/Desc
+"A sheltered land on the west coast of Middle-earth, located between Hithlum to the north northeast and West Beleriand to the south."
+End
+
+Map:MAPMPNevrast4p
+"Ost-in-Edhil"
+END
+Map:MAPMPNevrast4p/Desc
+"Ost-in-Edhil was established by the Noldor during the early parts of the Second Age, located where the Sirannon met the Glanduin."
+End
+
+Map:MAPMPHollin
+"Hollin"
+END
+Map:MAPMPHollin/Desc
+"Hollin was once home to the famed Elvish jewel-smiths of Eregion, the forgers of the great rings of power. But now the ruins of their great cities stand in silence among the stones."
 END
