@@ -31591,7 +31591,7 @@ CONTROLBAR:GaladrielTornado
 END
 
 CONTROLBAR:TooltipGaladrielTornado
-"Summons a destructive tornado onto the battlefield \n Left click icon then left click on target area"
+"Requires Level 7 \n Summons a destructive tornado onto the battlefield \n Left click icon then left click on target area"
 END
 
 CONTROLBAR:ElrondWhirlwind
@@ -40446,15 +40446,15 @@ OBJECT:ThroneofErebor
 END
 
 TOOLTIP:LackIsengardFireArrowsTech
-"Requires Level 3 Armory"
+"Requires Level 3 Tavern"
 END
 
 TOOLTIP:LackIsengardForgedBladesTech
-"Requires Level 2 Armory"
+"Requires Level 2 Tavern"
 END
 
 TOOLTIP:LackIsengardHeavyArmorTech
-"Requires Level 2 Armory"
+"Requires Level 2 Tavern"
 END
 
 OBJECT:ElvenWarShip
