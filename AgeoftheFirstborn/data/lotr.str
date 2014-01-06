@@ -10011,7 +10011,7 @@ OBJECT:MordorOrcTorch
 END
 
 OBJECT:MordorFellBeast			
-"Khamul"					
+"Winged Nazgul"					
 // originally "FellBeast"
 END
 
@@ -50346,7 +50346,7 @@ OBJECT:HordeBlackRiders
 END
 
 CONTROLBAR:BlackRiderRecruit	
-"Recruit the Blac&k Riders"
+"Recruit the Shadow of the South"
 END
 
 
@@ -50463,7 +50463,7 @@ OBJECT:HordeMordorHaradrimRider
 END
 
 CONTROLBAR:ToolTipBuildMordorHaradrimRiderHorde
-"Requires Level 2 Haradrim Palace \nCavalry, Strong vs. Archers and Swordsmen"
+"Requires Level 2 Haradrim Palace \nStrong vs. Archers and Swordsmen"
 END
 
 OBJECT:MordorHaradrimLancer
@@ -55360,7 +55360,7 @@ Map:MAPMPErech
 "Erech"
 END
 Map:MAPMPErech/Desc
-"An ancient site at the feet of the White Mountains in Gondor.  Erech was most famous for a huge Stone, said to have fallen from heaven, though, in fact, it was brought to Middle-earth by Isildur."
+"An ancient site at the feet of the White Mountains in Gondor,famous for a huge Stone, said to have fallen from heaven."
 End
 
 Map:MAPMPAnorien
@@ -55446,4 +55446,12 @@ Map:MAPMPHollin
 END
 Map:MAPMPHollin/Desc
 "Hollin was once home to the famed Elvish jewel-smiths of Eregion, the forgers of the great rings of power. But now the ruins of their great cities stand in silence among the stones."
+END
+
+CONTROLBAR:ConstructUmbarHaradrimLancerHorde
+"Haradrim Spear Throwers"
+END
+
+CONTROLBAR:ToolTipBuildUmbarHaradrimLancerHorde
+"Strong at Range"
 END
