@@ -9088,7 +9088,7 @@ OBJECT:GondorPorterFireArrow
 END
 
 OBJECT:GondorFighter
-"Gondor Soldiers"
+"Gondor Soldier"
 END
 
 OBJECT:GondorTowerShieldGuard
@@ -55454,4 +55454,12 @@ END
 
 CONTROLBAR:ToolTipBuildUmbarHaradrimLancerHorde
 "Strong at Range"
+END
+
+OBJECT:UmbarBlackGuard
+"Black Guard"
+END
+
+OBJECT:HordeUmbarBlackGuard
+"Black Guardsmen"
 END
