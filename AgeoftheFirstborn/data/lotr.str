@@ -48606,7 +48606,7 @@ CONTROLBAR:LW_Unit_AngmarHillTrollHordePlural
 END
 
 CONTROLBAR:LW_ToolTipBuild_AngmarHillTrollHorde
-"Unit Type: Elite Pikeman\nStrong vs. Cavalry\n"
+"Unit Type: Elite Pikeman\nStrong vs. Cavalry\n Only 3 Hordes of Hill Trolls are allowed at any time."
 END
 
 CONTROLBAR:ConstructHallofTwilight
