@@ -10011,8 +10011,7 @@ OBJECT:MordorOrcTorch
 END
 
 OBJECT:MordorFellBeast			
-"Winged Nazgul"					
-// originally "FellBeast"
+"Winged Nazgul"					// originally "FellBeast"
 END
 
 OBJECT:MordorWitchKingOnFellBeast
@@ -16053,16 +16052,16 @@ END
 //"Gothmog"
 //END
 CONTROLBAR:ToolTipBuildNazgulOnFellBeast		
-"Recruit a Fellbeast"					
+"Recruit a Winged Nazgul"					
 END
 CONTROLBAR:MordorFellBeastRecruit			
-"Recruit a Fellbeast"					
+"Recruit a Winged Nazgul"					
 END
 CONTROLBAR:MordorFellBeastRevive			
-"Revive the fallen Fellbeast"						
+"Revive the fallen Winged Nazgul"						
 END
 CONTROLBAR:MordorFellBeastHotkey			
-"&Fellbeast"						
+"&Winged Nazgul"						
 END
 CONTROLBAR:MordorMouthofSauronHotkey
 "&Mouth of Sauron"
@@ -29199,7 +29198,7 @@ CONTROLBAR:LW_ToolTip_WitchKing
 END
 
 CONTROLBAR:LW_Hero_FellBeast
-"Fell Beast"
+"Winged Nazgul"
 END
 
 CONTROLBAR:LW_ToolTipBuild_FellBeast
@@ -29211,7 +29210,7 @@ CONTROLBAR:LW_ToolTip_FellBeast
 END
 
 CONTROLBAR:LW_Hero_FellBeast1
-"Fell Beast"
+"Winged Nazgul"
 END
 
 CONTROLBAR:LW_ToolTipBuild_FellBeast1
@@ -29223,7 +29222,7 @@ CONTROLBAR:LW_ToolTip_FellBeast1
 END
 
 CONTROLBAR:LW_Hero_FellBeast2
-"Fell Beast"
+"Winged Nazgul"
 END
 
 CONTROLBAR:LW_ToolTipBuild_FellBeast2
@@ -41121,7 +41120,7 @@ TOOLTIP:LackRohanHorseShield
 END
 
 TOOLTIP:LackIsengardBasicTraining
-"Purchase Upgrade at Armory to enable this equipment \n When equipped, increases this horde to Level 2"
+"Purchase Upgrade at Hall to enable this equipment \n When equipped, increases this horde to Level 2"
 END
 
 TOOLTIP:LackIsengardFireArrows
@@ -41129,11 +41128,11 @@ TOOLTIP:LackIsengardFireArrows
 END
 
 TOOLTIP:LackIsengardForgedBlades
-"Research upgrade at Armory to enable this equipment \n When equipped, increases the damage done by Melee Weapons"
+"Research upgrade at Tavern to enable this equipment \n When equipped, increases the damage done by Melee Weapons"
 END
 
 TOOLTIP:LackIsengardHeavyArmor
-"Research upgrade at Armory to enable this equipment \n When equipped, significantly reduces the amount of damage taken"
+"Research upgrade at Tavern to enable this equipment \n When equipped, significantly reduces the amount of damage taken"
 END
 
 TOOLTIP:LackMordorFireArrow
@@ -55460,11 +55459,11 @@ OBJECT:HordeUmbarBlackGuard
 "Black Guardsmen"
 END
 
-CONTROLBAR:ConstructUmbarHallLevel2Upgrade
+CONTROLBAR:ConstructUmbarHall2Upgrade
 "&Upgrade Hall to Level 3"
 End
 
-CONTROLBAR:ConstructUmbarHallLevel3Upgrade
+CONTROLBAR:ConstructUmbarHall3Upgrade
 "&Upgrade Hall to Level 3"
 End
 
