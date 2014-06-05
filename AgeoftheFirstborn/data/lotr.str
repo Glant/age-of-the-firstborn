@@ -14804,7 +14804,7 @@ CONTROLBAR:ToolTipMordorHaradrimPalace
 "Trains Haradrim and Easterlings"
 END
 CONTROLBAR:DescriptionToolTipMordorHaradrimPalace
-"Trains Haradrim and Easterlings"
+"Trains Haradrim" ; and Easterlings
 END
 CONTROLBAR:ToolTipMordorMumakilPen
 "Trains Mumakil"
@@ -15879,7 +15879,7 @@ CONTROLBAR:ToolTipBuildWildTreasureTroveLevel3Upgrade
 END
 
 CONTROLBAR:ConstructWildSpiderlingHorde
-"Spider&lings"
+"Ungolai"
 END
 
 CONTROLBAR:ToolTipBuildWildSpiderlingHorde
@@ -15918,10 +15918,10 @@ OBJECT:MordorEasterling
 END
 
 CONTROLBAR:ConstructMordorOrcFighterHorde
-"Orc &Warriors"
+"Orgai Magari"
 END
 CONTROLBAR:ConstructMordorOrcArcherHorde
-"Orc &Archers"
+"Orgai Kirmzadgari"
 END
 CONTROLBAR:ConstructMordorHaradrimHorde
 "Haradrim Archers"
@@ -15936,7 +15936,7 @@ CONTROLBAR:ConstructMordorCaveTroll
 "Cave Troll"
 END
 CONTROLBAR:ConstructMordorMountainTroll
-"&Mountain Troll"
+"Olog Ordi"
 END
 CONTROLBAR:ConstructMordorMumakil
 "&Mumakil"
@@ -15945,7 +15945,7 @@ CONTROLBAR:ConstructMordorSiegeTower
 "Siege &Tower"
 END
 CONTROLBAR:ConstructMordorCatapult
-"&Catapult"
+"Bandai Zadgar"
 END
 CONTROLBAR:ConstructMordorGrond
 "Grond"
@@ -16505,7 +16505,7 @@ CONTROLBAR:ToolTipSpecialAbilityGrondPower
 END
 
 CONTROLBAR:ConstructMordorDrummerTrolls
-"&Drummer Troll"
+"Olog Hirimbagi"
 END
 CONTROLBAR:DescriptionConstructMordorDrummerTrolls
 "Allies near the Drummer Troll gain \n +50% Damage, +50% Armor, \n and earn experience twice as fast \n \n Passive ability       Does not stack"
@@ -31787,7 +31787,7 @@ CONTROLBAR:ConstructIsengardArmoryLevel3
 End
 
 CONTROLBAR:ConstructMordorAttackTroll
-"A&ttack Troll"
+"Olog Shadgari"
 End
 
 CONTROLBAR:ConstructMordorBattleTower
@@ -32316,7 +32316,7 @@ CONTROLBAR:TooltipUpgradeMordorSiegeWorksLevel2
 End
 
 CONTROLBAR:TooltipUpgradeMordorSiegeWorksLevel3
-"Allows research of Heavy Armor and summoning of the Black Riders \n+25% Faster Build Speed"
+"Allows research of Heavy Armour\n+25% Faster Build Speed"  ;and summoning of the Black Riders
 End
 
 CONTROLBAR:TooltipUpgradeMordorTavernLevel2
@@ -40702,7 +40702,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeIsengardHeavyArmor
 END
 
 CONTROLBAR:PurchaseTechnologyMordorFireArrows
-"Research Fire Arro&ws"
+"Kirmzag Ghashi"
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyMordorFireArrows
@@ -40746,7 +40746,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeIsengardBasicTraining
 END
 
 CONTROLBAR:PurchaseTechnologyMordorBasicTraining
-"Research Ba&nner Carriers"
+"Nakhtgar Azgari"
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyMordorBasicTraining
@@ -40942,7 +40942,7 @@ CONTROLBAR:ToolTipPurchaseTechnologyElvenSilverthornArrows
 END
 
 CONTROLBAR:PurchaseTechnologyMordorForgedBlades
-"Research Forged B&lades"
+"Kirm Zori"
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyMordorForgedBlades
@@ -40958,7 +40958,7 @@ CONTROLBAR:ToolTipPurchaseUpgradeMordorForgedBlades
 END
 
 CONTROLBAR:PurchaseTechnologyMordorHeavyArmor
-"Research Hea&vy Armor"
+"Gur Kilgari"
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyMordorHeavyArmor
@@ -50387,7 +50387,7 @@ CONTROLBAR:ToolTipBuildMordorWargHorde
 END
 
 CONTROLBAR:ConstructMordorBlackOrcHorde
-"Blac&k Orc Warriors"
+"Orgai Borzumi"
 END
 
 OBJECT:MordorBlackOrc
@@ -50491,7 +50491,7 @@ CONTROLBAR:PurchaseUpgradeMorderHeavyArmor
 END
 
 CONTROLBAR:TooltipUpgradeMordorHaradrimPalaceLevel2
-"Allows training of Corsairs of Umbar and Haradrim Lancers\n +10% Faster Build Speed"
+"Allows training of Haradrim Lancers\n +10% Faster Build Speed" ;Corsairs of Umbar and 
 End
 
 CONTROLBAR:TooltipUpgradeMordorHaradrimPalaceLevel3
@@ -54786,7 +54786,7 @@ CONTROLBAR:LW_ToolTip_MordorPikemanHorde
 END
 
 CONTROLBAR:ConstructMordorOrcPikemanHorde
-"Orc &Pikemen"
+"Orgai Rizgari"
 END
 
 CONTROLBAR:ToolTipBuildMordorOrcPikemanHorde
@@ -55163,11 +55163,11 @@ CONTROLBAR:ToolTipSummonHaradSpearmen
 END
 
 OBJECT:UmbarOnager
-"Umbar Onager"
+"Onager"
 END
 
 CONTROLBAR:ConstructUmbarOnager
-"Umbar Onager"
+"Onager"
 END
 
 CONTROLBAR:ToolTipBuildUmbarOnager
@@ -55191,19 +55191,15 @@ CONTROLBAR:ToolTipSummonWolfRider
 END
 
 CONTROLBAR:ConstructUmbarBarracks
-"Build Umbar Tavern"
+"Build Tavern"
 END
 
 CONTROLBAR:ToolTipConstructUmbarBarracks
-"Trains Corsair Raiders, Spearmen and Crossbowmen "
+"Trains Corsair Raiders, Spearmen and Crossbowmen"
 END
 
 CONTROLBAR:ConstructUmbarBarracks
-"Build Umbar Hall"
-END
-
-CONTROLBAR:ToolTipConstructUmbarBarracks
-"Trains Mercenary Leaders, Black Numenoreans and Black Guards"
+"Build Hall"
 END
 
 CONTROLBAR:ConstructUmbarBlackGuardHorde
@@ -55251,7 +55247,7 @@ CONTROLBAR:LW_ToolTipBuild_MorthondBowmanHorde
 END
 
 OBJECT:UmbarMarket
-"Umbar Market"
+"Market"
 END
 
 CONTROLBAR:ConstructUmbarMarket
@@ -55327,7 +55323,7 @@ CONTROLBAR:ToolTipErestorWary
 END
 
 OBJECT:UmbarHall
-"Umbar Hall"
+"Hall"
 END
 
 OBJECT:UmbarHallDescription
@@ -55335,11 +55331,11 @@ OBJECT:UmbarHallDescription
 END
 
 CONTROLBAR:ConstructUmbarHall
-"Build Umbar Hall"
+"Build Hall"
 END
 
 CONTROLBAR:ToolTipConstructUmbarHall
-"Trains Mercenaries, Black Numenoreans and Black Guards"
+"Trains Siege Weapons and Black Numenoreans"
 END
 
 OBJECT:UmbarThrallMaster
@@ -55462,4 +55458,36 @@ END
 
 OBJECT:HordeUmbarBlackGuard
 "Black Guardsmen"
+END
+
+CONTROLBAR:ConstructUmbarHallLevel2Upgrade
+"&Upgrade Hall to Level 3"
+End
+
+CONTROLBAR:ConstructUmbarHallLevel3Upgrade
+"&Upgrade Hall to Level 3"
+End
+
+UPGRADE:UmbarHallLevel3
+"Hall Level 3"
+End
+
+UPGRADE:UmbarHallLevel2
+"Hall Level 2"
+End
+
+CONTROLBAR:ToolTipBuildUmbarHallLevel2Upgrade
+"Allows Black Numenoreans to be built\n +10% Faster Build Speed" ;and Researches Banner Carriers
+End
+
+CONTROLBAR:ToolTipBuildUmbarHallLevel3Upgrade
+"Allows construction of Black Guardsmen\n +25% Faster build speed" ; \nAdds Arrow Tower to building 
+End
+
+OBJECT:UmbarTavernDescrition
+"Level 2: +10% Faster Build Speed\n Level 3: +25% Faster Build Speed"
+END
+
+OBJECT:UmbarTavern
+"Tavern"
 END
