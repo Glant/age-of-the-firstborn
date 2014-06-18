@@ -55463,7 +55463,7 @@ CONTROLBAR:ConstructUmbarHall2Upgrade
 "&Upgrade Hall to Level 3"
 End
 
-CONTROLBAR:ConstructUmbarHall3Upgrade
+CONTROLBAR:ConstructUmbarHallLevel3Upgrade
 "&Upgrade Hall to Level 3"
 End
 
