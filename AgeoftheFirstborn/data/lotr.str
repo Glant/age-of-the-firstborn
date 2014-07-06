@@ -23620,7 +23620,7 @@ Map:MAPWORDagorlad/Desc
 END
 
 Map:MAPWORDolGuldur/Desc
-"Sauron's hilltop stronghold in Mirkwood, now led by his Ringwraiths."
+"Sauron's hilltop stronghold in Mirkwood, now under the command of his Ringwraiths."
 END
 
 Map:MAPWORDunland/Desc
@@ -55355,7 +55355,7 @@ Map:MAPMPErech
 "Erech"
 END
 Map:MAPMPErech/Desc
-"An ancient site at the feet of the White Mountains in Gondor,famous for a huge Stone, said to have fallen from heaven."
+"An ancient site at the feet of the White Mountains in Gondor is famous for a huge Stone, which is said to have fallen from heaven."
 End
 
 Map:MAPMPAnorien
