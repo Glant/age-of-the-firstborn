@@ -55490,3 +55490,7 @@ END
 OBJECT:UmbarTavern
 "Tavern"
 END
+
+OBJECT:LindonRoyalGuard
+"Royal Guard of Lindon"
+END

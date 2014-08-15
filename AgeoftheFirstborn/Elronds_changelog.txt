@@ -1,0 +1,10 @@
+--------------
+-----DONE-----
+--------------
+added new Glorfindel on foot model
+
+--------------
+-----TODO-----
+--------------
+Glorfindel missing mounted model
+Gilgalad new art
