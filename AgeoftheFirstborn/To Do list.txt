@@ -1,0 +1,35 @@
+-----------------------------------------------------------------------------
+
+General :
+
+Noldor CAH needs new symbol.
+Umbar AI doesn't work.
+-----------------------------------------------------------------------------
+
+Angmar:
+
+Carn Dûm knights don't have their own banner Carrier Model.
+Carn Dûm knights don't have a decal.
+Carn Dûm soldiers should have forged blades on model (blue)
+Most Angmar Units can't receive upgrades.
+Campaign Mill doesn't have decal when being built.
+-----------------------------------------------------------------------------
+
+Lindon:
+
+Fortress lacks BI 
+Forge needs new BI and UP
+No Building Bibs.
+Fortress right expansion pad makes ballista the wrong way around.
+Archers should have Goldthorns on model.
+Knights need forged blades on model
+Goldthorns say "upgrade complete: Silverthorn arrows"
+Fortress Goldthorns say "upgrade complete: Flaming Munitions"
+Palace Guard need Goldthorns, not Silverthorns.
+Galdor's Wrath of Círdan Lightning bolt doesn't show.
+Well has no surrounding decal when being built.
+Erestor and Galdor portraits have transparency problems.
+Lindon warriors and Lindon sentries can't capture buildings.
+Teleri can't capture buildings.
+Sentries have no decals.
+-----------------------------------------------------------------------------
