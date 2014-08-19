@@ -9162,6 +9162,10 @@ OBJECT:ElvenLindonWarrior
 "Lindon Warrior"
 END
 
+OBJECT:ElvenLindonWarriorHorde
+"Lindon Warriors"
+END
+
 OBJECT:ElvenImladrisWarrior
 "Imladris Warrior"
 END
@@ -55302,7 +55306,7 @@ CONTROLBAR:NewBallLightning
 END
 
 CONTROLBAR:ToolTipNew_BallLightning
-"Sends out a lightning bolt that does excellent damage \n Left click icon then left click on target"
+"Requires Level 10 \n Sends out a lightning bolt that does excellent damage \n Left click icon then left click on target"
 End
 
 CONTROLBAR:GaldorPerception
@@ -55310,7 +55314,7 @@ CONTROLBAR:GaldorPerception
 END
 
 CONTROLBAR:ToolTipGaldorPerception
-"Requires Level 4 \n Galdor gains +100% Vision Range \n Left click to activate"
+"Requires Level 4 \n Galdor gains +200% Vision Range \n Left click to activate"
 END
 
 CONTROLBAR:ErestorWary
@@ -55493,4 +55497,28 @@ END
 
 OBJECT:LindonRoyalGuard
 "Royal Guard of Lindon"
+END
+
+OBJECT:HordeLindonRoyalGuard
+"Royal Guards of Lindon"
+END
+
+CONTROLBAR:ConstructLindonRoyalHorde
+"Royal Guards of Lindon"
+END
+
+CONTROLBAR:ToolTipBuildLindonRoyalHorde
+"Strong vs. All Normal Troops \n Requires Level 3 Barracks \n Only 2 Units of Royal Guards are allowed at any time."
+END
+
+CONTROLBAR:LW_Unit_LindonWarriorHorde
+"Lindon Warrior Battalion"
+END
+
+CONTROLBAR:LW_ToolTip_LindonFighterHorde
+"\nUnit Type: Basic Infantry\nStrong vs. Pikemen"
+END
+
+CONTROLBAR:LW_Unit_LindonWarriorHordePlural
+"Lindon Warrior Battalions"
 END
