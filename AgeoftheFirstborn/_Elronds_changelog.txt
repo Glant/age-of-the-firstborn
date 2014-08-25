@@ -2,9 +2,17 @@
 -----DONE-----
 --------------
 added new Glorfindel on foot model
+added new Royal Guard
+Elrond readded with Flood
 
 --------------
 -----TODO-----
 --------------
 Glorfindel missing mounted model
 Gilgalad new art
+Royal Guard abilities
+check Erestor vs Galdor exp needed
+check if anyone stealths near trees
+get Blades of Gondolin to work
+Royal guard str entry
+Exp level defines
